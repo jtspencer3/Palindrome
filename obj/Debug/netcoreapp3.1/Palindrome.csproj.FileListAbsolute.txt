@@ -1,0 +1,11 @@
+/Users/joel/Documents/C# Practice/Easy/Palindrome/bin/Debug/netcoreapp3.1/Palindrome
+/Users/joel/Documents/C# Practice/Easy/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.deps.json
+/Users/joel/Documents/C# Practice/Easy/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.runtimeconfig.json
+/Users/joel/Documents/C# Practice/Easy/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.runtimeconfig.dev.json
+/Users/joel/Documents/C# Practice/Easy/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.dll
+/Users/joel/Documents/C# Practice/Easy/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.pdb
+/Users/joel/Documents/C# Practice/Easy/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.csprojAssemblyReference.cache
+/Users/joel/Documents/C# Practice/Easy/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.AssemblyInfoInputs.cache
+/Users/joel/Documents/C# Practice/Easy/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.AssemblyInfo.cs
+/Users/joel/Documents/C# Practice/Easy/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.dll
+/Users/joel/Documents/C# Practice/Easy/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.pdb
